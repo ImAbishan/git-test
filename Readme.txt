@@ -1,2 +1,3 @@
 Hi! 
-Thisa is Abishan Parameswaran.
+This is Abishan Parameswaran.
+Undergraduate At IIT.
